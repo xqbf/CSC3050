@@ -10,7 +10,7 @@ Besides the first project that is 99/100, I got full marks in other projects.
 * MIPS Assembler (99/100)
 * MIPS Simulator (100/100)
 * ALU (100/100)
-* pipeline CPU (with dealing with the hazard) (110/110)
+* pipeline CPU (with dealing with the hazard) (120/120)
 
 Please find the tiny mistake I make in the first project if you want to run my codes.
 ## Advice
