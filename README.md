@@ -11,7 +11,7 @@ Please find the tiny mistake I make in the first project if you want to run my c
 ## Advice
 Write the codes as soon as possible.
 Learn **CPP** & **Verilog** in advance.
-For the lase two projects, please find a **tool** to help you with debugging visually.
+For the last two projects, please find a **tool** to help you with debugging visually.
 Write a **makefile** for every projects.
 Hope you all get good grades in this course.
 If you find my codes useful, please **fork this repository**.
