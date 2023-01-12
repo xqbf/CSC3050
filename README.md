@@ -2,10 +2,10 @@
 ## Purpose
 This repository aims to help student who are learning **CSC3050** or **Computer Architecture** by referring to my codes.
 ## WARNING
-This course will use **MOSS** to check if your codes are similar to your classmates or the previous students. 
+This course will use **MOSS** to check if your codes are similar to your classmates or the previous students.  
 Therefore, please do not **plagiarize**, or you might get a **ZERO** mark.
 ## Components
-This repository includes all four projects.
+This repository includes all four projects' requirments and codes based on **AY2021-2022** CSC3050 course.  
 Besides the first project that is 99/100, I got full marks in other projects.
 * MIPS Assembler (99/100)
 * MIPS Simulator (100/100)
